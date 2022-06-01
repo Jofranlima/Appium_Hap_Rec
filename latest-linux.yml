@@ -1,0 +1,9 @@
+version: 2022.2.1
+files:
+  - url: Appium-Inspector-linux-2022.2.1.AppImage
+    sha512: aKauhPscSX4tH/mHXTGC0LEJ1Ubv9RoJvYh+DbMbTpyUE3rmndp9yWzhoN3ZV8+9vg2dBm4Y9SVKvgCrydyuYw==
+    size: 100522395
+    blockMapSize: 104879
+path: Appium-Inspector-linux-2022.2.1.AppImage
+sha512: aKauhPscSX4tH/mHXTGC0LEJ1Ubv9RoJvYh+DbMbTpyUE3rmndp9yWzhoN3ZV8+9vg2dBm4Y9SVKvgCrydyuYw==
+releaseDate: '2022-02-13T08:04:02.109Z'

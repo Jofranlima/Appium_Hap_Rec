@@ -1,0 +1,2 @@
+Executa o teste com logs na pasta customizada
+        robot -d ./logs navigation.robot

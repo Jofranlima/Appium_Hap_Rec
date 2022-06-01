@@ -1,0 +1,5 @@
+
+app-homologacao-debug.apk
+*.apk
+./*.apk
+/Apks
