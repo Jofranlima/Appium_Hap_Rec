@@ -16,7 +16,7 @@ Test Teardown    Close Session
 
 
     #Wait Until Element Is Visible           id=fabFilterMainButton
-    #Click Text                              id=fabFilterMainButton
+    #Click Text ddd                             id=fabFilterMainButton
     #Wait Until Element Is Visible               Filtrar Pesquisa
 
     #Click Text                               DIALOGS
