@@ -27,4 +27,4 @@ Para executar os testes, inicie o servidor Appium e execute o seguinte comando:
 robot -d results tests
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT e foi criado por ##JOFRAN LIMA##. Veja o arquivo LICENSE para detalhes.
+Este projeto está licenciado sob a Licença MIT e foi criado por JOFRAN LIMA. Veja o arquivo LICENSE para detalhes.
