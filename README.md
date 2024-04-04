@@ -1,7 +1,7 @@
 # Automação com Robot Framework e Appium
 
 ## Visão Geral
-Este repositório contém scripts de teste automatizados utilizando Robot Framework e Appium para testes de aplicações móveis. O objetivo é fornecer uma suíte de testes eficiente e fácil de manter que possa validar funcionalidades críticas em aplicações Android e iOS.
+Este repositório contém scripts de teste automatizados utilizando Robot Framework e Appium para testes de aplicações móveis. O objetivo é fornecer uma suíte de testes eficiente e fácil de manter que possa validar funcionalidades críticas em aplicações Android.
 
 ## Primeiros Passos
 Para começar a utilizar esses scripts de automação, siga as instruções abaixo:
@@ -26,3 +26,5 @@ pip install -r requirements.txt
 Para executar os testes, inicie o servidor Appium e execute o seguinte comando:
 robot -d results tests
 
+## Licença
+Este projeto está licenciado sob a Licença MIT e foi criado por [JOFRAN LIMA]. Veja o arquivo LICENSE para detalhes.
